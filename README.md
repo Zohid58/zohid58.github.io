@@ -1,5 +1,5 @@
 <!ДОКТИП HTML >
-< html  язык = " ru " >
+< html  язык = " uz " >
     < голова >
         < метакодировка  = " UTF -8 " />
         < meta  http-equiv =" X-UA-Compatible " content =" IE=edge " />
